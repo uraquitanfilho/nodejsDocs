@@ -10,4 +10,6 @@
 * [Default structure](ambient.md)
 * [Environment Variables](environment_variables.md)
 * [Database](database.md)
+* [Crypt password](bcrypt.md)
+* [Docker](docker.md)
 * [.env File](environment_variables.md)
