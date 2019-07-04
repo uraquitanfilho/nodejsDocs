@@ -11,5 +11,6 @@
 * [Environment Variables](environment_variables.md)
 * [Database](database.md)
 * [Crypt password](bcrypt.md)
+* [Validation](yup.md)
 * [Docker](docker.md)
 * [.env File](environment_variables.md)
